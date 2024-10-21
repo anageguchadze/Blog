@@ -31,4 +31,4 @@ The Blog API is a RESTful web service built using Django and Django Rest Framewo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/blog-api.git
+   git clone https://github.com/anageguchadze/Blog
